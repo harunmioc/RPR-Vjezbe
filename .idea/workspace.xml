@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20172c8c-33d8-483a-915d-3a2d941b5ec7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lv2-z3/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lv2-z3/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lv2-z3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lv2-z3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lv2-z3/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lv2-z3/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lv2-z3/src/main/java/org/example/MathUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lv2-z3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lv2-z3/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +37,7 @@
     </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lv2-z2" />
+        <entry key="$PROJECT_DIR$" value="lv2-z3" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -81,9 +76,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "lv2-z3",
+    "git-widget-placeholder": "lv3-z1",
     "jdk.selected.JAVA_MODULE": "21",
-    "last_opened_file_path": "C:/Users/KORISNIK/Desktop/RPR-Vjezbe/LV2-Z2",
+    "last_opened_file_path": "C:/Users/KORISNIK/Desktop/RPR-Vjezbe",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -131,6 +126,7 @@
       <workItem from="1698352787781" duration="630000" />
       <workItem from="1698745845928" duration="1217000" />
       <workItem from="1698751625865" duration="2842000" />
+      <workItem from="1699297459618" duration="647000" />
     </task>
     <servers />
   </component>
