@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20172c8c-33d8-483a-915d-3a2d941b5ec7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lv3-z1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lv3-z1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lv3-z1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lv3-z1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lv3-z1/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lv3-z1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lv3-z1/lv3-z1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lv3-z1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lv3-z1/src/main/java/ba/unsa/etf/rpr/lv3/z1/BrojException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lv3-z1/src/main/java/ba/unsa/etf/rpr/lv3/z1/FiksniBroj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lv3-z1/src/main/java/ba/unsa/etf/rpr/lv3/z1/Grad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lv3-z1/src/main/java/ba/unsa/etf/rpr/lv3/z1/Imenik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lv3-z1/src/main/java/ba/unsa/etf/rpr/lv3/z1/MedunarodniBroj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lv3-z1/src/main/java/ba/unsa/etf/rpr/lv3/z1/MobilniBroj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lv3-z1/src/main/java/ba/unsa/etf/rpr/lv3/z1/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lv3-z1/src/main/java/ba/unsa/etf/rpr/lv3/z1/TelefonskiBroj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lv3-z1/src/test/java/ba/unsa/etf/rpr/lv3/z1/ImenikTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lv3-z1/src/test/java/ba/unsa/etf/rpr/lv3/z1/ImenikTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lv3-z1/src/test/java/ba/unsa/etf/rpr/lv3/z1/ProgramTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="20172c8c-33d8-483a-915d-3a2d941b5ec7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -212,7 +191,7 @@
       <workItem from="1698745845928" duration="1217000" />
       <workItem from="1698751625865" duration="2842000" />
       <workItem from="1699297459618" duration="647000" />
-      <workItem from="1699359249787" duration="4835000" />
+      <workItem from="1699359249787" duration="5478000" />
     </task>
     <servers />
   </component>
