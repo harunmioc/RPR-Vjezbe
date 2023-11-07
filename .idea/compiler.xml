@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Osoba" />
+        <module name="lv3-z1" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Osoba" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>

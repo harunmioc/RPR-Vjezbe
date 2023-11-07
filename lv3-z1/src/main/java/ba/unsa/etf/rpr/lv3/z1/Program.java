@@ -2,6 +2,7 @@ package ba.unsa.etf.rpr.lv3.z1;
 
 import java.util.*;
 public class Program {
+
     public static Scanner scanner = new Scanner(System.in);
     public static Imenik imenik = new Imenik();
 
