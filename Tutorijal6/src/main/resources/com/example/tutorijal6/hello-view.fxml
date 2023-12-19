@@ -5,7 +5,7 @@
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-<GridPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="320.0" minWidth="240.0" prefHeight="320.0" prefWidth="240.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.tutorijal6.HelloController">
+<GridPane fx:id="grid" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="320.0" minWidth="240.0" prefHeight="320.0" prefWidth="240.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.tutorijal6.HelloController">
    <stylesheets>
       <URL value="@kalkulator.css" />
    </stylesheets>
