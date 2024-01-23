@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ba.unsa.etf.rpr.lv1011.GlavnaController">
+   <center>
+      <TableView fx:id="tableViewGradovi" BorderPane.alignment="CENTER">
+        <columns>
+          <TableColumn fx:id="colGradId" prefWidth="80.39999532699585" text="ID" />
+          <TableColumn fx:id="colGradNaziv" prefWidth="97.99999237060547" text="Naziv" />
+            <TableColumn fx:id="colGradStanovnika" prefWidth="125.60003662109375" text="Stanovnika" />
+            <TableColumn fx:id="colGradDrzava" prefWidth="173.5999755859375" text="Država" />
+        </columns>
+         <BorderPane.margin>
+            <Insets />
+         </BorderPane.margin>
+         <padding>
+            <Insets bottom="5.0" left="5.0" right="5.0" />
+         </padding>
+      </TableView>
+   </center>
+   <right>
+      <VBox maxWidth="1.7976931348623157E308" prefHeight="200.0" prefWidth="100.0" BorderPane.alignment="CENTER">
+         <children>
+            <Button fx:id="btnDodajGrad" minWidth="100.0" mnemonicParsing="false" onAction="#btnDodajGrad" text="Dodaj grad">
+               <padding>
+                  <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+               </padding>
+               <VBox.margin>
+                  <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+               </VBox.margin>
+            </Button>
+            <Button fx:id="btnDodajDrzavu" minWidth="100.0" mnemonicParsing="false" onAction="#btnDodajDrzavu" text="Dodaj državu">
+               <VBox.margin>
+                  <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+               </VBox.margin>
+            </Button>
+            <Button fx:id="btnIzmijeniGrad" minWidth="100.0" mnemonicParsing="false" onAction="#btnIzmijeniGrad" text="Izmijeni grad">
+               <VBox.margin>
+                  <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+               </VBox.margin>
+            </Button>
+            <Button fx:id="btnObrisiGrad" minWidth="100.0" mnemonicParsing="false" onAction="#btnObrisiGrad" text="Obriši grad">
+               <VBox.margin>
+                  <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+               </VBox.margin>
+            </Button>
+         </children>
+      </VBox>
+   </right>
+</BorderPane>
